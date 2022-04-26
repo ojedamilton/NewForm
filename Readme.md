@@ -1,4 +1,4 @@
-# El Cronista 
+# The Chronicler 
 - News about Dolar 
 - Html structure
 - Tables
